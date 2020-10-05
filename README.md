@@ -1,5 +1,3 @@
-## Alex The Technomancer
-
 ![Profile banner](https://github.com/Tsubanee/Tsubanee/blob/main/AleX%20Z.png)
 
 Battle Technomancer :robot: [LVL 33]. While rather powerful in his natural 
