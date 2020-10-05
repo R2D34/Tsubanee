@@ -6,3 +6,7 @@ Space Lord :milky_way: [lvl ??].
 
 ```Technomancer - Highly adaptive software developer thriving in unknown territory. Utilizes vast spectrum of knowledge to creatively solve hard problems. Prefers to take on challanging quests to level-up efficiently.```
 
+
+I love learning new things, especially from wildly different domains.
+
+
