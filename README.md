@@ -1,5 +1,7 @@
 ![Profile banner](https://github.com/Tsubanee/Tsubanee/blob/main/AleX%20Z.png)
 
+## Intro
+
 Battle Technomancer :robot: [LVL 33]. While rather powerful in his natural 
 habitat, still would be one-shotted by world-class being like Musk the 
 Space Lord :milky_way: [lvl ??].
@@ -7,9 +9,9 @@ Space Lord :milky_way: [lvl ??].
 ```Technomancer - Highly adaptive software developer thriving in unknown territory. Utilizes vast spectrum of knowledge to creatively solve hard problems. Prefers to take on challanging quests to level-up efficiently.```
 
 
+## Projects
 
-
-Links to github pages of the bigger projects illustrating some of my skills:
+### Links to github pages of the bigger projects illustrating some of my skills:
 
 - [Burger Maker app for a burger serving restaurant](https://github.com/Tsubanee/burger-app)
 - [Dragon Auctions, app which allows to create auctions with photos and stylized description by authenticated users](https://github.com/Tsubanee/Flutter)
